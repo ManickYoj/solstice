@@ -1,0 +1,21 @@
+{
+  "name": "equinox",
+  "version": "0.0.1",
+  "description": "A co-op space adventure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "equinox",
+    "space",
+    "adventure",
+    "co-op"
+  ],
+  "author": "Nick Francisci",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
